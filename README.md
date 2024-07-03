@@ -4,7 +4,7 @@ TEI-XML-Datenset der edition humboldt digital (Version 8 vom 11.05.2022). https:
 
 ## Datenmodell
 
-Die Editionsrichtlinien stehen unter https://edition-humboldt.de/richtlinien/index.html zur Vefügung. Das Datenmodell ist in drei verschiedene ODDs aufgeteilt (für edierte Texte, Registereinträge und Forschungsbeiträge). Dem Datenset liegen die drei RNG-Schemata bei, die ODD-Ursprungsdateien sind im Repository [ediarum.AVHR.data-model](https://github.com/telota/ediarum.AVHR.data-model/) zu finden. 
+Die Editionsrichtlinien stehen unter https://edition-humboldt.de/richtlinien/index.html zur Verfügung. Das Datenmodell ist in drei verschiedene ODDs aufgeteilt (für edierte Texte, Registereinträge und Forschungsbeiträge). Dem Datenset liegen die drei RNG-Schemata bei, die ODD-Ursprungsdateien sind im Repository [ediarum.AVHR.data-model](https://github.com/telota/ediarum.AVHR.data-model/) zu finden. 
 
 ## Zitierhinweis
 
